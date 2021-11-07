@@ -1,4 +1,4 @@
-This project was described at the video below:
+This project was detailed in the video below:
 
 https://www.youtube.com/watch?v=HaeHy8ayCYg
 
