@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=HaeHy8ayCYg
 
 ## Getting Started
 
-First, run the development server:
+First, install the dependencies and run the development server:
 
 ```bash
 npm install
